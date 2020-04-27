@@ -1,0 +1,79 @@
+{
+    "jpg": {
+        "size": 4,
+        "offset": 0,
+        "signature": [
+            "FF D8 FF E0",
+            "FF D8 FF E1",
+            "FF D8 FF E2",
+            "FF D8 FF E3",
+            "FF D8 FF E8",
+            "FF D8 FF DB",
+            "FF D8 FF EE"
+        ]
+    },
+    "png": {
+        "size": 8,
+        "offset": 0,
+        "signature": [
+            "89 50 4E 47 0D 0A 1A 0A"
+        ]
+    },
+    "avi": {
+        "size": 4,
+        "offset": 0,
+        "signature": [
+            "52 49 46 46 "
+        ]
+    },
+    "webm": {
+        "size": 4,
+        "offset": 0,
+        "signature": [
+            "1A 45 DF A3"
+        ]
+    },
+    "mpg": {
+        "size": 4,
+        "offset": 0,
+        "signature": [
+            "00 00 01 BA",
+            "00 00 01 B3"
+        ]
+    },
+    "bin": {
+        "size": 7,
+        "offset": 0,
+        "signature": [
+            "42 4C 49 32 32 33 51"
+        ]
+    },
+    "mkv": {
+        "size": 4,
+        "offset": 0,
+        "signature": [
+            "1A 45 DF A3"
+        ]
+    },
+    "mks": {
+        "size": 4,
+        "offset": 0,
+        "signature": [
+            "1A 45 DF A3"
+        ]
+    },
+    "mk3d": {
+        "size": 4,
+        "offset": 0,
+        "signature": [
+            "1A 45 DF A3"
+        ]
+    },
+    "pdf": {
+        "size": 4,
+        "offset": 0,
+        "signature": [
+            "25 50 44 46"
+        ]
+    }
+}
