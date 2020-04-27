@@ -7,13 +7,13 @@ Table will be updated and this is not final script. Im going to add work with me
 
 ## Check a single file
 
-Open directory wtih script in command line and write `python3 fileinspect.py -f {your_file}`
+Open directory with script in command line and write `python3 fileinspect.py -f {your_file}`
 
 ## Check directory
 
-Open directory wtih script in command line and write `python3 fileinspect.py -d {your_directory}`
+Open directory with script in command line and write `python3 fileinspect.py -d {your_directory}`
 
 ## Check directory with saving files in output directory
 
-Open directory wtih script in command line and write:
+Open directory with script in command line and write:
 `python3 fileinspect.py -d {your_directory} -o {output}`
