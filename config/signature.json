@@ -91,5 +91,27 @@
     "size": 7,
     "offset": 0,
     "signature": ["52 61 72 21 1A 07 00"]
+  },
+  "zip": {
+    "size": 4,
+    "offset": 0,
+    "signature": ["50 4B 03 04", 
+                  "50 4B 07 08", 
+                  "50 4B 05 06"]
+  },
+  "wav": {
+    "size": 4,
+    "offset": 0,
+    "signature": ["52 49 46 46"]
+  },
+  "mp3": {
+    "size": 3,
+    "offset": 0,
+    "signature": ["49 44 33"]
+  },
+  "bmp": {
+    "size": 2,
+    "offset": 0,
+    "signature": ["42 4D"]
   }
 }
